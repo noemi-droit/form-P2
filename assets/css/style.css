@@ -25,6 +25,7 @@ body {
     background-color: rgb(41, 57, 194);
     border: none;
     border-radius: 4px;
+    
 }
 
 .input-control {
@@ -38,7 +39,8 @@ body {
 	display: block;
 	font-size: 12px;
 	padding: 10px;
-	width: 100%;
+	width: 95%;
+    text-align: center;
 }
 
 .input-control input:focus {
